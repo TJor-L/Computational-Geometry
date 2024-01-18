@@ -1,0 +1,3 @@
+C:/Users/15408/source/repos/Computational-Geometry/out/build/x64-Debug/CMakeFiles/CG.dir
+C:/Users/15408/source/repos/Computational-Geometry/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/15408/source/repos/Computational-Geometry/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
